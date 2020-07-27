@@ -1,0 +1,4 @@
+cd ..
+ls&&sls
+sleep 2
+echo Finished!
